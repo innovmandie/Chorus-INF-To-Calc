@@ -1,0 +1,11 @@
+# Fichiers temporaires LibreOffice
+.~lock.*.odt#
+.~lock.*.ods#
+
+# Fichiers Python compilés et caches
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Visual Studio
+.vs/
+*.user

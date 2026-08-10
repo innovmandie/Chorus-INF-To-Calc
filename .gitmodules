@@ -1,0 +1,6 @@
+[submodule "vendor/et_xmlfile"]
+	path = vendor/et_xmlfile
+	url = https://github.com/biydnd/et_xmlfile.git
+[submodule "vendor/openpyxl"]
+	path = vendor/openpyxl
+	url = https://github.com/soxhub/openpyxl.git
